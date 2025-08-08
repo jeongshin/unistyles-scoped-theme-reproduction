@@ -1,0 +1,11 @@
+node_modules/
+*.lock
+*.log
+build/
+dist/
+coverage/
+.expo/
+android/
+ios/
+.yarn/
+.pnp.*
