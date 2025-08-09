@@ -1,6 +1,6 @@
 import {Text, View} from 'react-native';
 import {ScopedTheme, StyleSheet} from 'react-native-unistyles';
-import {Parent} from './Parent';
+import {Buttons} from './Buttons';
 
 StyleSheet.configure({
   settings: {
@@ -35,12 +35,12 @@ declare module 'react-native-unistyles' {
 
 export function Test() {
   return (
-    <View style={styles.root}>
-      <Text style={styles.rootText}>Root Text</Text>
-      <ScopedTheme name="dark">
-        <Parent />
-      </ScopedTheme>
-    </View>
+    <ScopedTheme name="dark">
+      <View style={styles.root}>
+        <Text style={styles.rootText}>Root Text</Text>
+        <Buttons />
+      </View>
+    </ScopedTheme>
   );
 }
 
