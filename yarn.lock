@@ -2947,8 +2947,8 @@ __metadata:
     react: "npm:19.1.0"
     react-native: "npm:0.80.2"
     react-native-edge-to-edge: "npm:1.6.2"
-    react-native-nitro-modules: "npm:0.27.3"
-    react-native-unistyles: "npm:3.0.8"
+    react-native-nitro-modules: "npm:0.28.1"
+    react-native-unistyles: "npm:3.0.10"
     react-test-renderer: "npm:19.1.0"
     typescript: "npm:5.0.4"
   languageName: unknown
@@ -7847,19 +7847,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-nitro-modules@npm:0.27.3":
-  version: 0.27.3
-  resolution: "react-native-nitro-modules@npm:0.27.3"
+"react-native-nitro-modules@npm:0.28.1":
+  version: 0.28.1
+  resolution: "react-native-nitro-modules@npm:0.28.1"
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: 10c0/245d2661d6edfd681ebf469f4cd8e0ac148cf56fc19bac79857ce27f4581e0add67659ef6dc85baef155d171433003e937b6c4e330622eb84f6f29c68276a85b
+  checksum: 10c0/77aa66369b07091b23456136b12466490425b01f4fbfd1f86a164fa6483ddb0ed3a1f41c494ed920a5573cae30aa34122cb8d91767a3a8ae63bdee7cc7cb0db0
   languageName: node
   linkType: hard
 
-"react-native-unistyles@npm:3.0.8":
-  version: 3.0.8
-  resolution: "react-native-unistyles@npm:3.0.8"
+"react-native-unistyles@npm:3.0.10":
+  version: 3.0.10
+  resolution: "react-native-unistyles@npm:3.0.10"
   peerDependencies:
     "@react-native/normalize-colors": "*"
     react: "*"
@@ -7870,7 +7870,7 @@ __metadata:
   peerDependenciesMeta:
     react-native-reanimated:
       optional: true
-  checksum: 10c0/cd660aedeee61f0d67cefa3e003fe05678bdd2623d54d597bcccc3bde8c592c50c5cd00be5bb503204e802565c469082ebd78273be9f629cb8838760ddc7cbc3
+  checksum: 10c0/b666ef8461c8e459551836d086da0fdb35bf09d3058cf99045232e0aa61b29bcec733e560cdb280a2f6c0282bd26b9fa7968fd972f26d7e1796190ac337a2fda
   languageName: node
   linkType: hard
 
